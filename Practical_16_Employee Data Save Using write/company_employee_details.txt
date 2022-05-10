@@ -1,0 +1,15 @@
+                 Employee Details                 
+**********************************************************
+Name         : Praxware Technologies
+Id           : 1
+Position     : Python Developer
+Email_id     : zalahitesh960@gmail.com
+Mobile No    : 8490891581
+Address      : Mahemdavad
+Ta           : 200.0
+Da           : 300.0
+Hra          : 2000.0
+Pf           : 1800.0
+Salary       : 10000
+Total Salary : 10700.0
+************************************************************

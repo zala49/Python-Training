@@ -1,0 +1,15 @@
+
+Company Name             : Praxware Technologies
+Name             : Hitesh Zala
+ID            : 1
+Position             : Python Developer
+Mobile No             : 8490891581
+Address             : Mahemdavad
+Email_Id             : zalahitesh7777
+TA             : 400.0
+DA             : 1000.0
+HRA             : 4000.0
+PF             : 3600.0
+Salary             : 25400.0
+Salary             : 20000
+Total Salary             : 21800.0

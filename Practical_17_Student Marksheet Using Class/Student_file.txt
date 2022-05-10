@@ -1,0 +1,10 @@
+Collegue             : D A Degree Engineering And Technologies
+Name                 : Hitesh Zala
+Roll Number          : 50
+Enrollment           : 181180107056
+Semester             : 8
+Python Marks         : 70
+Java Marks           : 78
+C++ Marks            : 89
+Total                : 237
+Average              : 79.0
